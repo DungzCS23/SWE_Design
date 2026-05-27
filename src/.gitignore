@@ -1,0 +1,9 @@
+# Bỏ qua các file biên dịch
+bin/
+*.class
+
+# Bỏ qua các file cấu hình của VS Code
+.vscode/
+
+# Bỏ qua các file tạm khác (nếu có)
+.DS_Store
